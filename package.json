@@ -1,0 +1,26 @@
+{
+  "name": "grand_av_lil",
+  "version": "1.0.0",
+  "description": "Grand_Average computes grand averages effectively, offering comprehensive solutions for mean calculation tasks, ensuring accuracy and reliability in your statistical analyses.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "grand_av_lil": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiliShipp57/grand_av_lil.git"
+  },
+  "homepage": "https://github.com/LiliShipp57/grand_av_lil/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "LiliShipp57",
+  "license": "MIT"
+}
